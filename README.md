@@ -18,3 +18,6 @@ align-items - For vertical alignment (cross axis)
 gap - For consistent spacing between flex items
 flex-direction - For controlling flow direction (row/column)
 Implicit equal distribution - Using flex: 1 to make children share space equally
+
+the image is from unsplash.com by Pavel Marianov
+https://unsplash.com/photos/dense-forest-borders-a-calm-blue-lake-4y1VjMxFipk
