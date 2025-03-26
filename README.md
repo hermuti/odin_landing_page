@@ -1,7 +1,7 @@
 # odin_landing_page
 
-this project is aimed to test my uncerstanding on flex on css
-For this project i will be creating an entire web page from a design they have provide for me.
+this project is aimed to test my understanding on flex on css
+For this project i will be creating a web page from a design that was provide on odin.
 i have use flex propery on different area like
 1,main body layout
 2,header navigation
